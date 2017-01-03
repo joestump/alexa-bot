@@ -7,3 +7,18 @@ BookBoarding we're going to drop the dogs off {Dropoff} and pick them up {Pickup
 BookBoarding we'd like to board the dogs from {Dropoff} until {Pickup}
 BookBoarding we'd like to board the dogs from {Dropoff} through {Pickup}
 BookBoarding we'd like to drop the dogs off {Dropoff} and pick them up {Pickup}
+BookBoarding we'd like to board the dogs from {Dropoff} to {Pickup}
+BookBoarding we'd like to board the dogs from {Dropoff} until {Pickup}
+BookBoarding I'll be dropping the dogs off {Dropoff} and picking them up {Pickup}
+BookBoarding I'm going on vacation from {Dropoff} to {Pickup}
+BookBoarding I'm going on vacation from {Dropoff} and coming back {Pickup}
+BookBoarding I'm going on vacation from {Dropoff} and returning {Pickup}
+BookBoarding I'm leaving for vacation on {Dropoff} and returning {Pickup}
+BookBoarding I'm leaving for vacation on {Dropoff} and coming back {Pickup}
+BookBoarding I'm leaving town {Dropoff} and returning {Pickup}
+BookBoarding I'm leaving town {Dropoff} and coming back {Pickup}
+BookBoarding I'm leaving town on {Dropoff} and coming back on {Pickup}
+BookBoarding I'd like to drop the dogs off {Dropoff} and pick them up on {Pickup}
+BookBoarding I'd like to drop the dogs off on {Dropoff} and pick them up on {Pickup}
+BookBoarding I'd like to board the dogs from {Dropoff} to {Pickup}
+BookBoarding I'd like to board the dogs from {Dropoff} until {Pickup}
