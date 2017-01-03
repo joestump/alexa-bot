@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/joestump/alexa-bot#readme",
   "dependencies": {
+    "aws-sdk": "^2.7.20",
     "serverless": "^1.4.0"
+  },
+  "devDependencies": {
+    "serverless-plugin-browserify": "^1.0.1"
   }
 }

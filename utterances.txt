@@ -1,0 +1,9 @@
+BookBoarding to book boarding from {Dropoff} until {Pickup}
+BookBoarding to book boarding from {Dropoff} to {Pickup}
+BookBoarding to board the dogs from {Dropoff} to {Pickup}
+BookBoarding to board the dogs from {Dropoff} until {Pickup}
+BookBoarding to board the dogs from {Dropoff} through {Pickup}
+BookBoarding we're going to drop the dogs off {Dropoff} and pick them up {Pickup}
+BookBoarding we'd like to board the dogs from {Dropoff} until {Pickup}
+BookBoarding we'd like to board the dogs from {Dropoff} through {Pickup}
+BookBoarding we'd like to drop the dogs off {Dropoff} and pick them up {Pickup}

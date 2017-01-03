@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "BookBoarding",
+      "slots": [
+        {
+          "name": "Dropoff",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "Pickup",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    }
+  ]
+}
