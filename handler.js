@@ -57,7 +57,7 @@ module.exports.bookBoarding = (event, context, callback) => {
 
   const emailMessage = "Hello there, \n\n" + 
     "We're heading out of town and would like to book our dogs for boarding. " +
-    "We'd like to drop off our dogs " + prettyDropoff + " and plan " +
+    "We'd like to drop off our dogs (Sheldon, Cooper & Bazinga) " + prettyDropoff + " and plan " +
     "on picking them up " + prettyPickup + ".\n\n" +
     "This request was sent by my personal robot assistant. You can confirm " +
     "with me at 971-285-6400 or by replying to this email." +
